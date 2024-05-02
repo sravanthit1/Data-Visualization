@@ -1,0 +1,5 @@
+Experience in all phases of the Data warehouse life cycle involving Analysis, Design, Development andTesting as a part of Data Quality Design framework. Development of Extraction and Loading usingInformatica.
+Prepared SQL & PL/SQL Queries to validate the data in both source and target databases. 
+Applied data cleansing/data scrubbing techniques to ensure consistency amongst data sets. 
+Developed process for capturing and maintaining metadata from all data repository components. 
+Solely responsible for designing and migrating the Data quality framework from composite toInformatica.
